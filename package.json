@@ -1,0 +1,23 @@
+{
+  "name": "gitaction-back-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damedsol/gitaction-back-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damedsol/gitaction-back-example/issues"
+  },
+  "homepage": "https://github.com/Damedsol/gitaction-back-example#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
